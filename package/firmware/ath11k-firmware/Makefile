@@ -14,7 +14,7 @@ PKG_MIRROR_HASH:=da9c25ac3d3e0427fc233541b627b738c22d91a8551d8b2355eef5f91d7f1f4
 PKG_RELEASE:=$(AUTORELEASE)
 
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_URL:=https://github.com/kvalo/ath11k-firmware.git
+PKG_SOURCE_URL:=https://github.com/SaFi-wi/ath11k-firmware.git
 
 PKG_MAINTAINER:=Robert Marko <robimarko@gmail.com>
 
